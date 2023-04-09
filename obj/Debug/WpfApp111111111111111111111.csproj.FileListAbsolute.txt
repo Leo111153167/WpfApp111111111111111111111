@@ -1,0 +1,16 @@
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\bin\Debug\WpfApp111111111111111111111.exe.config
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\bin\Debug\WpfApp111111111111111111111.exe
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\bin\Debug\WpfApp111111111111111111111.pdb
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.csproj.AssemblyReference.cache
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\MainWindow.g.cs
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\App.g.cs
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111_MarkupCompile.cache
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111_MarkupCompile.lref
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\MainWindow.baml
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.g.resources
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.Properties.Resources.resources
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.csproj.GenerateResource.cache
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.csproj.CoreCompileInputs.cache
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.exe
+C:\Users\linmm\Desktop\WpfApp111111111111111111111\obj\Debug\WpfApp111111111111111111111.pdb
